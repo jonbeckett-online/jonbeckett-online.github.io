@@ -13,15 +13,15 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
-title: jonbeckett.com
+locale: "en-GB"
+title: jonbeckett.online
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jonathan Beckett"
-description: "Software and Web Developer"
-url: "https://jonbeckett.com"
+description: "Flight Simulation and Aviation Enthusiast"
+url: "https://jonbeckett.online"
 baseurl: ""
-repository: "jonbeckett/jonbeckett.github.io"
+repository: "jonbeckett-online/jonbeckett-online.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -59,7 +59,7 @@ search: false # true, false (default)
 
 # Analytics
 analytics:
-  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id: "G-0J6K0088RD"
     anonymize_ip: false # true, false (default)
@@ -68,34 +68,31 @@ analytics:
 author:
   name: "Jonathan Beckett"
   avatar: "/assets/images/jonbeckett.jpg"
-  bio: "Software and Web Developer"
+  bio: "Flight Simulation and Aviation Enthusiast"
   location: "UK"
   email: "jonathan.beckett@gmail.com"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jonathanbeckett"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
-    - label: "BlueSky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "Website"
+      icon: "fab fa-fw fa-globe"
+      url: "https://jonbeckett.online"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jonbeckett"
+    - label: "Substack Blog"
+      icon: "fab fa-fw fa-substack"
+      url: "https://jonbeckett.substack.com/"
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonathan.beckett@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jonathanbeckett"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
-    - label: "BlueSky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "Website"
+      icon: "fab fa-fw fa-globe"
+      url: "https://jonbeckett.online"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jonbeckett"
+    - label: "Substack Blog"
+      icon: "fab fa-fw fa-substack"
+      url: "https://jonbeckett.substack.com/"
     - label: "Disclaimer"
       icon: "fas fa-fw fa-info-circle"
       url: "/disclaimer/"
