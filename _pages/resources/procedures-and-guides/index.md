@@ -18,65 +18,15 @@ I update the procedures as aircraft evolve (and as I can find time to do so) - a
 
 ## Reference Guides
 
-<div class="feature__wrapper">
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">Guides & Log Sheets</h2>
-<div class="archive__item-excerpt">
-<p>VFR/IFR guides, Garmin references, conversion charts, and printable flight logs.</p>
-</div>
-<p><a href="/procedures-and-guides/guides/" class="btn btn--primary">View Guides</a></p>
-</div>
-</div>
-</div>
-
-</div>
+- [Guides & Log Sheets](/procedures-and-guides/guides/) - VFR/IFR guides, Garmin references, conversion charts, and printable flight logs
 
 ---
 
 ## Startup Procedures by Simulator
 
-<div class="feature__wrapper">
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">MSFS 2024</h2>
-<div class="archive__item-excerpt">
-<p>Procedures for the latest Microsoft Flight Simulator covering GA, commercial, and military aircraft.</p>
-</div>
-<p><a href="/procedures-and-guides/msfs-2024/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">X-Plane 12</h2>
-<div class="archive__item-excerpt">
-<p>Procedures for X-Plane 12 aircraft including the Zibo 737 and ToLiss A320.</p>
-</div>
-<p><a href="/procedures-and-guides/x-plane-12/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">MSFS 2020</h2>
-<div class="archive__item-excerpt">
-<p>Procedures for Microsoft Flight Simulator 2020 covering GA, commercial, historic, and military aircraft.</p>
-</div>
-<p><a href="/procedures-and-guides/msfs-2020/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-</div>
+- [Microsoft Flight Simulator 2024](/procedures-and-guides/msfs-2024/) - GA, commercial, and military aircraft
+- [X-Plane 12](/procedures-and-guides/x-plane-12/) - Including the Zibo 737 and ToLiss A320
+- [Microsoft Flight Simulator 2020](/procedures-and-guides/msfs-2020/) - GA, commercial, historic, and military aircraft
 
 ---
 

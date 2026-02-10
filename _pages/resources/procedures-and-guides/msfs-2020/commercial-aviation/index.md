@@ -1,5 +1,5 @@
 ---
-title: "MSFS 2020 - Commercial Aviation"
+title: "Microsoft Flight Simulator 2020 - Commercial Aviation"
 layout: single
 permalink: /procedures-and-guides/msfs-2020/commercial-aviation/
 header:

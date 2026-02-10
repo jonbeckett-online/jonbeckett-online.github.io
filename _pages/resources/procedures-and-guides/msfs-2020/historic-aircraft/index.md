@@ -1,5 +1,5 @@
 ---
-title: "MSFS 2020 - Historic Aircraft"
+title: "Microsoft Flight Simulator 2020 - Historic Aircraft"
 layout: single
 permalink: /procedures-and-guides/msfs-2020/historic-aircraft/
 header:

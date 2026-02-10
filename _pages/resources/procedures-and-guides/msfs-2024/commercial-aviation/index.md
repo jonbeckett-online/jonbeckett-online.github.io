@@ -1,5 +1,5 @@
 ---
-title: "MSFS 2024 - Commercial Aviation"
+title: "Microsoft Flight Simulator 2024 - Commercial Aviation"
 layout: single
 permalink: /procedures-and-guides/msfs-2024/commercial-aviation/
 header:

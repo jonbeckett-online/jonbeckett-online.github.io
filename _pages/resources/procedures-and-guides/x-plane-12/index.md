@@ -1,5 +1,5 @@
 ---
-title: "X-Plane 12"
+title: "X-Plane 12 Procedures"
 layout: single
 permalink: /procedures-and-guides/x-plane-12/
 header:
@@ -11,21 +11,7 @@ Startup procedures for aircraft in X-Plane 12.
 
 ## Categories
 
-<div class="feature__wrapper">
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">Commercial Aviation</h2>
-<div class="archive__item-excerpt">
-<p>Airliners and regional aircraft for X-Plane 12.</p>
-</div>
-<p><a href="/procedures-and-guides/x-plane-12/commercial-aviation/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-</div>
+- [Commercial Aviation](/procedures-and-guides/x-plane-12/commercial-aviation/) - Airliners and regional aircraft
 
 ---
 

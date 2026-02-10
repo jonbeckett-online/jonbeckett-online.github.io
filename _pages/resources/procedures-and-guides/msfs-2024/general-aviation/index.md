@@ -1,5 +1,5 @@
 ---
-title: "MSFS 2024 - General Aviation"
+title: "Microsoft Flight Simulator 2024 - General Aviation"
 layout: single
 permalink: /procedures-and-guides/msfs-2024/general-aviation/
 header:

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Flight Simulator 2024"
+title: "Microsoft Flight Simulator 2024 Procedures"
 layout: single
 permalink: /procedures-and-guides/msfs-2024/
 header:
@@ -11,45 +11,9 @@ Startup procedures for aircraft in Microsoft Flight Simulator 2024.
 
 ## Categories
 
-<div class="feature__wrapper">
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">General Aviation</h2>
-<div class="archive__item-excerpt">
-<p>Single and multi-engine props, turboprops, and light jets.</p>
-</div>
-<p><a href="/procedures-and-guides/msfs-2024/general-aviation/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">Commercial Aviation</h2>
-<div class="archive__item-excerpt">
-<p>Airliners, regional jets, and cargo aircraft.</p>
-</div>
-<p><a href="/procedures-and-guides/msfs-2024/commercial-aviation/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-<div class="feature__item">
-<div class="archive__item">
-<div class="archive__item-body">
-<h2 class="archive__item-title">Military Aviation</h2>
-<div class="archive__item-excerpt">
-<p>Fighters, bombers, transports, and helicopters.</p>
-</div>
-<p><a href="/procedures-and-guides/msfs-2024/military-aviation/" class="btn btn--primary">View Procedures</a></p>
-</div>
-</div>
-</div>
-
-</div>
+- [General Aviation](/procedures-and-guides/msfs-2024/general-aviation/) - Single and multi-engine props, turboprops, and light jets
+- [Commercial Aviation](/procedures-and-guides/msfs-2024/commercial-aviation/) - Airliners, regional jets, and cargo aircraft
+- [Military Aviation](/procedures-and-guides/msfs-2024/military-aviation/) - Fighters, bombers, transports, and helicopters
 
 ---
 
