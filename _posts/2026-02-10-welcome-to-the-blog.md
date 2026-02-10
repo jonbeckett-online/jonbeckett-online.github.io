@@ -30,7 +30,7 @@ But if you want to see me *actually* flying (and occasionally crashing) virtual 
 
 ## Watch on YouTube
 
-{% include video id="@jonbeckett" provider="youtube" %}
+{% include video id="d0spDi0o29Y" provider="youtube" %}
 
 I share my flight simulation adventures with nearly **50,000 fellow virtual aviators** on YouTube. You'll find:
 
