@@ -1,64 +1,72 @@
 ---
-layout: default
-author_profile: true
+layout: splash
+title: "Welcome"
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1600&h=900&fit=crop&crop=entropy&auto=format&q=80"
+  actions:
+    - label: "Watch on YouTube"
+      url: "https://youtube.com/@jonbeckett"
+    - label: "Subscribe on Substack"
+      url: "https://jonbeckett.substack.com/"
+excerpt: "Flight simulation adventures, retro computing, and technology musings from a software developer who definitely isn't a real pilot."
 ---
 
-{% assign latest_post = site.posts.first %}
+<div class="feature__wrapper">
 
-{% if latest_post.header.overlay_color or latest_post.header.overlay_image or latest_post.header.image %}
-  
-  <div class="page__hero{% if latest_post.header.overlay_color or latest_post.header.overlay_image %} page__hero--overlay{% endif %}"
-       {% if latest_post.header.overlay_color and latest_post.header.overlay_image == nil %} style="background-color: {{ latest_post.header.overlay_color }};"{% endif %}>
-    {% if latest_post.header.overlay_image %}
-      <div class="wrapper">
-        <h1 id="page-title" class="page__title">{{ latest_post.title }}</h1>
-        {% if latest_post.excerpt and latest_post.header.show_overlay_excerpt != false %}
-          <p class="page__lead">{{ latest_post.excerpt | markdownify | strip_html | strip | truncate: 200 }}</p>
-        {% endif %}
-        <a href="{{ latest_post.url | relative_url }}" class="btn btn--light-outline btn--large">Read Full Post</a>
-        {% if latest_post.header.caption %}
-          <span class="page__hero-caption">{{ latest_post.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-        {% endif %}
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="Flight Simulation">
       </div>
-      <style>
-        .page__hero--overlay {
-          background: {% if latest_post.header.overlay_filter %}{{ latest_post.header.overlay_filter }}, {% endif %}url("{{ latest_post.header.overlay_image }}") center center;
-          background-size: cover;
-          background-repeat: no-repeat;
-        }
-      </style>
-    {% elsif latest_post.header.image %}
-      <img src="{{ latest_post.header.image }}" alt="{% if latest_post.header.image_description %}{{ latest_post.header.image_description }}{% else %}{{ latest_post.title }}{% endif %}" class="page__hero-image">
-      {% if latest_post.header.caption %}
-        <span class="page__hero-caption">{{ latest_post.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-      {% endif %}
-    {% endif %}
-  </div>
-{% endif %}
-
-<div id="main" role="main">
-  {% include sidebar.html %}
-
-  <div class="archive">
-    <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-    {% if paginator %}
-      {% comment %} When using pagination, exclude the first post if we're on the first page {% endcomment %}
-      {% if paginator.page == 1 %}
-        {% assign posts = paginator.posts | offset: 1 %}
-      {% else %}
-        {% assign posts = paginator.posts %}
-      {% endif %}
-    {% else %}
-      {% comment %} When not using pagination, skip the first post {% endcomment %}
-      {% assign posts = site.posts | offset: 1 %}
-    {% endif %}
-
-    {% assign entries_layout = page.entries_layout | default: 'list' %}
-    <div class="entries-{{ entries_layout }}">
-      {% include documents-collection.html entries=posts type=entries_layout %}
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">YouTube Channel</h2>
+        <div class="archive__item-excerpt">
+          <p>Join nearly 50,000 fellow virtual aviators for livestreams, tutorials, and flight simulation adventures.</p>
+        </div>
+        <p><a href="https://youtube.com/@jonbeckett" class="btn btn--primary">Watch Now</a></p>
+      </div>
     </div>
-
-    {% include paginator.html %}
   </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="Newsletter">
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Substack Newsletter</h2>
+        <div class="archive__item-excerpt">
+          <p>Subscribe for free email updates about my flight simulation escapades. Join 1,800+ subscribers.</p>
+        </div>
+        <p><a href="https://jonbeckett.substack.com/" class="btn btn--primary">Subscribe Free</a></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="Blog">
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Blog Posts</h2>
+        <div class="archive__item-excerpt">
+          <p>Retro computing, flight sim deep dives, aircraft developer profiles, and technology musings.</p>
+        </div>
+        <p><a href="/posts/" class="btn btn--primary">Read Posts</a></p>
+      </div>
+    </div>
+  </div>
+
 </div>
+
+<h2 style="margin-top: 2em;">Latest Posts</h2>
+
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<p style="margin-top: 1em;"><a href="/posts/" class="btn btn--primary">View All Posts</a></p>
