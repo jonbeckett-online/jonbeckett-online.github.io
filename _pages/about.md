@@ -13,7 +13,7 @@ In the daytime I'm a software and web developer for a Microsoft partner, working
 
 ## The Virtual Cockpit
 
-When not wrestling with enterprise codebases, you'll find me attempting to fly all manner of simulated aircraft in a somewhat questionably correct manner. I share these adventures with an amazing community:
+When not wrestling with enterprise codebases, you'll find me attempting to fly all manner of simulated aircraft in a questionably correct manner. I share these adventures with an amazing community:
 
 - **[YouTube](https://youtube.com/@jonbeckett)** — Nearly 50,000 fellow virtual aviators follow along with my flight sim escapades and livestreams
 - **[Substack Blog](https://jonbeckett.substack.com/)** — 2000+ subscribers read about my many and varied adventures across much of the known (virtual) world

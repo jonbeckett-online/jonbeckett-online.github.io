@@ -18,13 +18,13 @@ header:
 
 Hello, and welcome to my corner of the internet!
 
-I'm Jonathan—a software developer by day and virtual pilot by... well, every other available moment. When I'm not wrestling with corporate codebases, you'll find me attempting to fly all manner of simulated aircraft in a somewhat questionably correct manner.
+I'm Jonathan—a software developer by day and virtual pilot by... well, every other available moment. When I'm not wrestling with corporate codebases, you'll find me attempting to fly all manner of simulated aircraft in a questionably correct manner.
 
 **Disclaimer:** I'm not a real pilot. The virtual skies are safer that way.
 
 ## What's This Site About?
 
-This blog is a place for me to share thoughts on flight simulation, retro computing, technology, and whatever else catches my interest. You'll find articles about aircraft add-ons, developer profiles, and the occasional deep dive into computing history.
+This site is a place for me to share resources related to flight simulation.
 
 But if you want to see me *actually* flying (and occasionally crashing) virtual aircraft, you'll want to head over to my main hangouts:
 
