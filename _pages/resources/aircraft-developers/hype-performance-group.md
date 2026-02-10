@@ -4,9 +4,9 @@ title: "Hype Performance Group (HPG)"
 permalink: /aircraft-developers/hype-performance-group/
 excerpt: "Premier helicopter developer setting the benchmark for Airbus Helicopters simulation quality in MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1534786676047-0d3cd631fb0d?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1534786676047-0d3cd631fb0d?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # Hype Performance Group (HPG)

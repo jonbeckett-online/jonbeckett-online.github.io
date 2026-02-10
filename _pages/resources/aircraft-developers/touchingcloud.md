@@ -4,9 +4,9 @@ title: "TouchingCloud"
 permalink: /aircraft-developers/touchingcloud/
 excerpt: "French developer specializing in high-performance sailplane simulation for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # TouchingCloud

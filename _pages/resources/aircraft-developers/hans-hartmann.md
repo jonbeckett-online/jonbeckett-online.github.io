@@ -4,9 +4,9 @@ title: "Hans Hartmann / S&H Software"
 permalink: /aircraft-developers/hans-hartmann/
 excerpt: "German developer renowned for detailed turboprop simulations including the ATR and Twin Otter series."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # Hans Hartmann / S&H Software

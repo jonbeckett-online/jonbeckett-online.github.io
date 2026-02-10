@@ -4,9 +4,9 @@ title: "DC Designs"
 permalink: /aircraft-developers/dc-designs/
 excerpt: "UK-based studio specializing in military aircraft add-ons including iconic fighters and the Concorde."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559628233-100c798642d4?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559628233-100c798642d4?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # DC Designs
