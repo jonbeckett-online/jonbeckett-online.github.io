@@ -37,9 +37,10 @@ Over the years, PMDG developed legendary products for Flight Simulator 2004, FSX
 ## Aircraft Portfolio
 
 ### Current Products (MSFS 2020/2024)
-- **Boeing 737 NG3 Series** - 737-600, 737-700, 737-800, 737-900 with BBJ and freighter variants
-- **Boeing 777 Series** - 777-300ER, 777F, 777-200ER, 777-200LR
-- **Douglas DC-6** - Classic radial-engined propliner with exceptional systems depth
+- **Boeing 737 NG3 Series** - [737-600](/aircraft/pmdg-737-600/), [737-700](/aircraft/pmdg-737-700/), [737-800](/aircraft/pmdg-737-800/), [737-900](/aircraft/pmdg-737-900/) with BBJ and freighter variants
+- **Boeing 777 Series** - [777-300ER](/aircraft/pmdg-boeing-777-300e/), [777F](/aircraft/pmdg-boeing-777f/), [777-200ER](/aircraft/pmdg-b777-200er/), [777-200LR](/aircraft/pmdg-boeing-777-200lr/)
+- **[Douglas DC-6](/aircraft/pmdg-dc-6/)** - Classic radial-engined propliner with exceptional systems depth
+
 
 ### In Development
 - **Boeing 747 Family** - Comprehensive 747 series including classic variants, 747-400, and 747-8

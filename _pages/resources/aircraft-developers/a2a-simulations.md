@@ -37,8 +37,8 @@ With the release of MSFS 2020, A2A brought their Accu-Sim technology to the new 
 ## Aircraft Portfolio
 
 ### Current Products (MSFS)
-- **Accu-Sim Comanche 250** - Their flagship MSFS release, a Piper Comanche with extraordinary systems depth (MSFS 2020/2024)
-- **Accu-Sim Aerostar 600** - Twin-engine Ted Smith Aerostar with full Accu-Sim integration
+- **[Accu-Sim Comanche 250](/aircraft/a2a-simulations-comanche-250/)** - Their flagship MSFS release, a Piper Comanche with extraordinary systems depth (MSFS 2020/2024)
+- **[Accu-Sim Aerostar 600](/aircraft/a2a-simulations-aerostar-600/)** - Twin-engine Ted Smith Aerostar with full Accu-Sim integration
 
 ### Legacy Products (P3D/FSX)
 - **Accu-Sim C172 Trainer** - Cessna 172 with comprehensive training features
@@ -47,6 +47,7 @@ With the release of MSFS 2020, A2A brought their Accu-Sim technology to the new 
 - **Accu-Sim P-40** - Curtiss P-40 Warhawk warbird
 - **Accu-Sim P-51 Civilian Mustang** - North American P-51
 - **Accu-Sim Spitfire** - Supermarine Spitfire
+
 
 ### Additional Products
 - **Accu-Feel** - Global effects enhancement

@@ -35,11 +35,30 @@ Their breakthrough products included classic aircraft such as the Cessna 140 and
 ## Aircraft Portfolio
 
 ### Current Products
-- **Douglas DC-3** - Legendary twin-engine transport with multiple variants and detailed systems
-- **Cessna 140** - Classic post-war trainer with authentic 1940s character
-- **Globe Swift** - Sleek 1940s personal aircraft with retractable gear
-- **DHC-1 Chipmunk** - Iconic British trainer used worldwide
+
+#### WWII Warbirds
+- **[Avro Lancaster](/aircraft/aeroplane-heaven-avro-lancaster/)** - Britain's legendary heavy bomber
+- **[Supermarine Spitfire Mk.Ia](/aircraft/aeroplane-heaven-spitfire-mk1a/)** - Iconic Battle of Britain fighter
+- **[Hawker Hurricane Mk.I](/aircraft/aeroplane-heaven-hawker-hurricane-mk1/)** - The unsung hero of the Battle of Britain
+- **[P-51D Mustang](/aircraft/aeroplane-heaven-p-51d-mustang/)** - America's legendary escort fighter
+- **[P-47D Thunderbolt](/aircraft/aeroplane-heaven-p-47d/)** - The mighty 'Jug' fighter-bomber
+- **[Mitsubishi A6M2 Zero](/aircraft/aeroplane-heaven-mitsubishi-a6m2-zero/)** - Japan's iconic carrier fighter
+- **[Hawker Nimrod & Fury](/aircraft/aeroplane-heaven-hawker-nimrod-fury/)** - Classic 1930s biplane fighters
+- **[Grumman F3F-2](/aircraft/aeroplane-heaven-grumman-f3f-2/)** - Last American biplane fighter
+- **[Boeing P-26A Peashooter](/aircraft/aeroplane-heaven-boeing-p-26a/)** - First all-metal US fighter
+
+#### Golden Age Airliners
+- **[Douglas DC-3](/aircraft/aeroplane-heaven-douglas-dc-3/)** - Legendary twin-engine transport
+- **[Lockheed Electra 10A](/aircraft/aeroplane-heaven-electra-10a/)** - Amelia Earhart's aircraft
+- **[Boeing 307 Stratoliner](/aircraft/aeroplane-heaven-microsoft-boeing-307-stratoliner/)** - First pressurized airliner (with Microsoft)
+
+#### Classic General Aviation
+- **[Cessna 140](/aircraft/aeroplane-heaven-cessna-140/)** - Classic post-war trainer
+- **[Globe Swift](/aircraft/aeroplane-heaven-globe-swift/)** - Sleek 1940s sport aircraft
+- **[DHC-1 Chipmunk](/aircraft/aeroplane-heaven-dhc-1-chipmunk/)** - Iconic British trainer
+- **[SOCATA Rallye MS-893](/aircraft/aeroplane-heaven-socata-rallye-ms-893/)** - French STOL aircraft
 - **Piper PA-38 Tomahawk** - Popular training aircraft
+
 
 ### Legacy Products
 - Various WWII fighters and bombers for FSX/P3D
