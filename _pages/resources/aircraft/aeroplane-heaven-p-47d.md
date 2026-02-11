@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Republic P-47D Thunderbolt"
 permalink: /aircraft/aeroplane-heaven-p-47d/
 excerpt: "The legendary 'Jug' — America's rugged WWII fighter-bomber for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1601467207367-6ee96c1af56a?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/7/74/P-47.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1601467207367-6ee96c1af56a?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/7/74/P-47.jpg"
 ---
 
 # Republic P-47D Thunderbolt

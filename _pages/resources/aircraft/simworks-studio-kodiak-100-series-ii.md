@@ -4,9 +4,9 @@ title: "SimWorks Studios Kodiak 100 Series II"
 permalink: /aircraft/simworks-studio-kodiak-100-series-ii/
 excerpt: "The ultimate bush plane turboprop for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Quest_Kodiak_100_AN2150438.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Quest_Kodiak_100_AN2150438.jpg"
 ---
 
 # Quest Kodiak 100

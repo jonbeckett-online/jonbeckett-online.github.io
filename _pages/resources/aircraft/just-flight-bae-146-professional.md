@@ -4,9 +4,9 @@ title: "Just Flight BAe 146 Professional"
 permalink: /aircraft/just-flight-bae-146-professional/
 excerpt: "The 'Whisper Jet' regional airliner in study-level detail for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1583202075514-278f03e3e8ea?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/BAe.146_Whisper_Jet_-_53168895648.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1583202075514-278f03e3e8ea?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/9/93/BAe.146_Whisper_Jet_-_53168895648.jpg"
 ---
 
 # British Aerospace BAe 146

@@ -4,9 +4,9 @@ title: "A2A Simulations Aerostar 600"
 permalink: /aircraft/a2a-simulations-aerostar-600/
 excerpt: "The legendary Ted Smith Aerostar with full Accu-Sim technology for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Piper_pa-60-600_aerostar_n70vb_arp.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Piper_pa-60-600_aerostar_n70vb_arp.jpg"
 ---
 
 # Ted Smith Aerostar 600

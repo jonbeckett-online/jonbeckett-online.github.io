@@ -4,9 +4,9 @@ title: "DC Designs Concorde"
 permalink: /aircraft/dc-designs-concorde/
 excerpt: "The legendary supersonic airliner brought to Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Concorde_on_Bristol.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/0/06/Concorde_on_Bristol.jpg"
 ---
 
 # Aerospatiale-BAC Concorde

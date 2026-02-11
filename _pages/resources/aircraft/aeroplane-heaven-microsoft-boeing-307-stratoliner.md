@@ -4,9 +4,9 @@ title: "Aeroplane Heaven/Microsoft Boeing 307 Stratoliner"
 permalink: /aircraft/aeroplane-heaven-microsoft-boeing-307-stratoliner/
 excerpt: "The world's first pressurized airliner for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Boeing_307_Stratoliner%2C_Pan_Am_JP5966568.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Boeing_307_Stratoliner%2C_Pan_Am_JP5966568.jpg"
 ---
 
 # Boeing 307 Stratoliner

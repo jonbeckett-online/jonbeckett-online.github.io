@@ -4,9 +4,9 @@ title: "Hype Performance Group Airbus H135"
 permalink: /aircraft/hype-performance-group-airbus-h-135/
 excerpt: "The definitive study-level helicopter for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Airbus_H-135.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1551524164-687a55dd1126?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Airbus_H-135.jpg"
 ---
 
 # Airbus H135

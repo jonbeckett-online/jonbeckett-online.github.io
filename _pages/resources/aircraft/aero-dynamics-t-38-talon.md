@@ -4,9 +4,9 @@ title: "Aero Dynamics T-38 Talon"
 permalink: /aircraft/aero-dynamics-t-38-talon/
 excerpt: "The USAF's legendary supersonic jet trainer for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1608236415053-3691791bbffe?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Northrop_T-38C_Talon.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1608236415053-3691791bbffe?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Northrop_T-38C_Talon.jpg"
 ---
 
 # Northrop T-38 Talon

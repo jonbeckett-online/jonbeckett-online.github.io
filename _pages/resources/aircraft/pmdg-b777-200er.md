@@ -4,9 +4,9 @@ title: "PMDG Boeing 777-200ER"
 permalink: /aircraft/pmdg-b777-200er/
 excerpt: "The Triple Seven long-haul workhorse in study-level detail for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1583202075514-278f03e3e8ea?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Boeing_777-200_%283628076070%29.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1583202075514-278f03e3e8ea?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Boeing_777-200_%283628076070%29.jpg"
 ---
 
 # Boeing 777-200ER

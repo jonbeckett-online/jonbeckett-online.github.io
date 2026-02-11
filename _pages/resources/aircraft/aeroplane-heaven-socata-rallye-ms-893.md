@@ -4,9 +4,9 @@ title: "Aeroplane Heaven SOCATA Rallye MS-893"
 permalink: /aircraft/aeroplane-heaven-socata-rallye-ms-893/
 excerpt: "A French touring and training aircraft known for STOL capabilities."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Socata_MS-893A_Rallye_Commodore%2C_Private_JP6345416.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Socata_MS-893A_Rallye_Commodore%2C_Private_JP6345416.jpg"
 ---
 
 # SOCATA Rallye MS-893

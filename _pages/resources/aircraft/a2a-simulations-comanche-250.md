@@ -4,9 +4,9 @@ title: "A2A Simulations Comanche 250"
 permalink: /aircraft/a2a-simulations-comanche-250/
 excerpt: "The definitive study-level Piper Comanche with Accu-Sim technology for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Piper_PA-24-250_Comanche_AN1803160.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Piper_PA-24-250_Comanche_AN1803160.jpg/600px-Piper_PA-24-250_Comanche_AN1803160.jpg"
 ---
 
 # Piper PA-24 Comanche 250

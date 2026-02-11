@@ -4,9 +4,9 @@ title: "A1R Design Bureau Ryan ST-A Special"
 permalink: /aircraft/a1r-design-bureau-ryan-st-a-special/
 excerpt: "A beautifully crafted 1930s American sport trainer for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Ryan_ST.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/8/89/Ryan_ST.jpg"
 ---
 
 # Ryan ST-A Special

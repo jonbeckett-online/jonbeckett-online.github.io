@@ -4,9 +4,9 @@ title: "Aeroplane Heaven DHC-1 Chipmunk"
 permalink: /aircraft/aeroplane-heaven-dhc-1-chipmunk/
 excerpt: "The classic Canadian-designed military trainer for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/De_Havilland_DHC-1_Chipmunk_Mk22_AN0692076.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/b/bc/De_Havilland_DHC-1_Chipmunk_Mk22_AN0692076.jpg"
 ---
 
 # de Havilland Canada DHC-1 Chipmunk

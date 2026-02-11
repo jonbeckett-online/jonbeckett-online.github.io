@@ -4,9 +4,9 @@ title: "FlyByWire A320neo"
 permalink: /aircraft/flybywire-a320neo/
 excerpt: "The community's free, open-source study-level Airbus for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/5/59/EasyJet_Airbus_A320.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/EasyJet_Airbus_A320.jpg/600px-EasyJet_Airbus_A320.jpg"
 ---
 
 # Airbus A320neo

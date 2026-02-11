@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Lockheed Electra 10A"
 permalink: /aircraft/aeroplane-heaven-electra-10a/
 excerpt: "The iconic pre-war airliner made famous by Amelia Earhart for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Lockheed_10A_Electra_CF-TCC_%28515405202%29.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/3/31/Lockheed_10A_Electra_CF-TCC_%28515405202%29.jpg"
 ---
 
 # Lockheed Model 10 Electra

@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Avro Lancaster"
 permalink: /aircraft/aeroplane-heaven-avro-lancaster/
 excerpt: "Britain's legendary WWII heavy bomber brought to life in Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Avro_Lancaster_B_I_PA474.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1570710891163-6d3b5c47248b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Avro_Lancaster_B_I_PA474.jpg/600px-Avro_Lancaster_B_I_PA474.jpg"
 ---
 
 # Avro Lancaster

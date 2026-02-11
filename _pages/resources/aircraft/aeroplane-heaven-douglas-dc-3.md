@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Douglas DC-3"
 permalink: /aircraft/aeroplane-heaven-douglas-dc-3/
 excerpt: "The legendary 'Gooney Bird' that revolutionized commercial aviation for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/d/df/Douglas_DC-3%2C_SE-CFP.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Douglas_DC-3%2C_SE-CFP.jpg/600px-Douglas_DC-3%2C_SE-CFP.jpg"
 ---
 
 # Douglas DC-3

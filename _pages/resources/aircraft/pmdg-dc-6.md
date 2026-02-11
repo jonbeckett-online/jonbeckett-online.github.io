@@ -4,9 +4,9 @@ title: "PMDG Douglas DC-6"
 permalink: /aircraft/pmdg-dc-6/
 excerpt: "The golden age propliner in extraordinary study-level detail for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Douglas_DC-6_Flying_Bulls.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/5/59/Douglas_DC-6_Flying_Bulls.jpg"
 ---
 
 # Douglas DC-6

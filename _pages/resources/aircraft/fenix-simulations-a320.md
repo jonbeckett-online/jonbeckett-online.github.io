@@ -4,9 +4,9 @@ title: "Fenix Simulations A320"
 permalink: /aircraft/fenix-simulations-a320/
 excerpt: "The most realistic payware A320 simulation for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1474302770737-173ee21bab63?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/5/59/EasyJet_Airbus_A320.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1474302770737-173ee21bab63?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/5/59/EasyJet_Airbus_A320.jpg"
 ---
 
 # Airbus A320 CEO

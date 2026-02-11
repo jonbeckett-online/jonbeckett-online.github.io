@@ -4,9 +4,9 @@ title: "iniBuilds Airbus A310"
 permalink: /aircraft/inibuilds-a310/
 excerpt: "A free study-level classic Airbus widebody for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Airbus_A310-304_-_C-GVAT_-_Air_Transat_-_Seen_at_YQB.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/5/54/Airbus_A310-304_-_C-GVAT_-_Air_Transat_-_Seen_at_YQB.jpg"
 ---
 
 # Airbus A310

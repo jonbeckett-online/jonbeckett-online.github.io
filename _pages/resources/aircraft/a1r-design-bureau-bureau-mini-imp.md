@@ -4,9 +4,9 @@ title: "A1R Design Bureau Mini Imp"
 permalink: /aircraft/a1r-design-bureau-mini-imp/
 excerpt: "A charming homebuilt single-seat sport aircraft for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1474302770737-173ee21bab63?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Mustang_II_AN0873108.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1474302770737-173ee21bab63?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/6/67/Mustang_II_AN0873108.jpg"
 ---
 
 # Mini Imp

@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Mitsubishi A6M2 Zero"
 permalink: /aircraft/aeroplane-heaven-mitsubishi-a6m2-zero/
 excerpt: "Japan's legendary WWII carrier fighter for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/A6M3_Zero_N712Z_1.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1559686043-aef1bbc98d85?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/a/a7/A6M3_Zero_N712Z_1.jpg"
 ---
 
 # Mitsubishi A6M2 "Zero"

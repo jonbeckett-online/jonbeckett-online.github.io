@@ -4,9 +4,9 @@ title: "Aeroplane Heaven Hawker Hurricane Mk.I"
 permalink: /aircraft/aeroplane-heaven-hawker-hurricane-mk1/
 excerpt: "Britain's unsung Battle of Britain hero for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1580974852861-c381510a4c70?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hawker_Hurricane.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1580974852861-c381510a4c70?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hawker_Hurricane.jpg"
 ---
 
 # Hawker Hurricane Mk.I

@@ -4,9 +4,9 @@ title: "Aeroplane Heaven P-51D Mustang"
 permalink: /aircraft/aeroplane-heaven-p-51d-mustang/
 excerpt: "America's legendary WWII long-range escort fighter for MSFS."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/3/3f/P-51_Mustang_edit1.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/P-51_Mustang_edit1.jpg/600px-P-51_Mustang_edit1.jpg"
 ---
 
 # North American P-51D Mustang

@@ -4,9 +4,9 @@ title: "A1R Design Shavrov Sh-2"
 permalink: /aircraft/a1r-design-shavrov-sh-2/
 excerpt: "A Soviet-era amphibious flying boat for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shavrov_Sh-2_%28Monino%29.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shavrov_Sh-2_%28Monino%29.jpg"
 ---
 
 # Shavrov Sh-2

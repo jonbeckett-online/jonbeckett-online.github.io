@@ -4,9 +4,9 @@ title: "A1R Design Bureau Chilton DW-A1"
 permalink: /aircraft/a1r-design-bureau-chilton-dw-a1/
 excerpt: "A rare 1930s British ultralight aircraft brought to life in Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1514477917009-389c76a86b68?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luton_LA-4A_Minor_AN1578515.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1514477917009-389c76a86b68?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Luton_LA-4A_Minor_AN1578515.jpg"
 ---
 
 # Chilton DW-A1

@@ -4,9 +4,9 @@ title: "Got Friends Discus-2c Glider"
 permalink: /aircraft/got-friends-discus-2c-glider/
 excerpt: "High-performance sailplane for Microsoft Flight Simulator."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1566212395462-c88b0e6dc7e0?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Discus-2b-im-Flug.jpg"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 100%)"
-  teaser: "https://images.unsplash.com/photo-1566212395462-c88b0e6dc7e0?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/4/49/Discus-2b-im-Flug.jpg"
 ---
 
 # Schempp-Hirth Discus-2c
