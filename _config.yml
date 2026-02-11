@@ -72,9 +72,6 @@ author:
   location: "UK"
   email: "jonathan.beckett@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-globe"
-      url: "https://jonbeckett.online"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@jonbeckett"
@@ -87,9 +84,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-globe"
-      url: "https://jonbeckett.online"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@jonbeckett"
