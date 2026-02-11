@@ -23,8 +23,6 @@ I update the procedures as aircraft evolve (and as I can find time to do so) - a
 
 Comprehensive reference guides covering flight planning, navigation systems, and printable log sheets.
 
-### Available Guides
-
 - [Air Traffic Services Visual Flight Rules (VFR) Beginners Guide](https://ko-fi.com/s/c31fff37d1)
 - [Air Traffic Services Instrument Flight Rules (IFR) Beginners Guide](https://ko-fi.com/s/eaa307ab1b)
 - [Garmin GNS 530 Flight Planning Quick Reference Guide](https://ko-fi.com/s/4838d07246)
@@ -42,8 +40,6 @@ Startup procedures for aircraft in Microsoft Flight Simulator 2020.
 ### General Aviation
 
 Startup procedures for general aviation aircraft including single and multi-engine props, turboprops, and light jets.
-
-#### Available Procedures
 
 - [A2A Accu-Sim Comanche 250 Startup Procedure](https://ko-fi.com/s/3c3436f16b)
 - [Asobo Cessna C152 Startup Procedure](https://ko-fi.com/s/89d6e1997d)
@@ -65,8 +61,6 @@ Startup procedures for general aviation aircraft including single and multi-engi
 ### Commercial Aviation
 
 Startup procedures for airliners, regional jets, and cargo aircraft.
-
-#### Available Procedures
 
 - [Aeroplane Heaven Boeing 707-320C Startup Procedure](https://ko-fi.com/s/b85ffa1069)
 - [Aerosoft Bombardier CRJ 550 Startup Procedure](https://ko-fi.com/s/c1346616c5)
@@ -139,8 +133,6 @@ Startup procedures for airliners, regional jets, and cargo aircraft.
 
 Startup procedures for classic airliners and vintage aircraft.
 
-#### Available Procedures
-
 - [Asobo / Aeroplane Heaven Boeing Stratoliner Startup Procedure](https://ko-fi.com/s/15de5ccab2)
 - [Asobo / BlueMesh Latécoère Startup Procedure](https://ko-fi.com/s/fbe31c5cbc)
 - [Asobo Dornier Do X Startup Procedure](https://ko-fi.com/s/8abc5cf818)
@@ -151,8 +143,6 @@ Startup procedures for classic airliners and vintage aircraft.
 ### Military Aviation
 
 Startup procedures for fighters, bombers, transports, and helicopters.
-
-#### Available Procedures
 
 - [Aeroplane Heaven Hawker Hurricane Mk1 Startup Procedure](https://ko-fi.com/s/1e3b190bc5)
 - [Aeroplane Heaven Supermarine Spitfire Mk 1A Startup Procedure](https://ko-fi.com/s/5302c18150)
@@ -181,8 +171,6 @@ Startup procedures for aircraft in Microsoft Flight Simulator 2024.
 ### General Aviation
 
 Startup procedures for single and multi-engine props, turboprops, and light jets.
-
-#### Available Procedures
 
 - [A2A Accu-Sim Comanche 250 Startup Procedure](https://ko-fi.com/s/d4b628f322)
 - [A2A Accu-Sim Piper PA60 Aerostar Startup Procedure](https://ko-fi.com/s/057a57e72e)
@@ -225,8 +213,6 @@ Startup procedures for single and multi-engine props, turboprops, and light jets
 
 Startup procedures for airliners, regional jets, and cargo aircraft.
 
-#### Available Procedures
-
 - [Fenix Airbus A319 Startup Procedure](https://ko-fi.com/s/5fe475f23d)
 - [Fenix Airbus A320 Startup Procedure](https://ko-fi.com/s/206354f50b)
 - [Fenix Airbus A321 Startup Procedure](https://ko-fi.com/s/e7f817728d)
@@ -252,8 +238,6 @@ Startup procedures for airliners, regional jets, and cargo aircraft.
 ### Military Aviation
 
 Startup procedures for fighters, bombers, transports, and helicopters.
-
-#### Available Procedures
 
 - [Aeroplane Heaven Avro Lancaster Startup Procedure](https://ko-fi.com/s/676b5380dc)
 - [Aeroplane Heaven Supermarine Spitfire Mk 1A Startup Procedure](https://ko-fi.com/s/b283cad545)
@@ -282,8 +266,6 @@ Startup procedures for aircraft in X-Plane 12.
 ### Commercial Aviation
 
 Startup procedures for airliners and regional aircraft including the Zibo 737 and ToLiss A320.
-
-#### Available Procedures
 
 - [Felis Boeing 747-200 Startup Procedure](https://ko-fi.com/s/883e151104)
 - [FlyJSim DeHavilland Dash 8 Q400 Startup Procedure](https://ko-fi.com/s/f08431b0b9)
