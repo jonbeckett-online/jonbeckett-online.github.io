@@ -4,5 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
   - title: "Resources"
     url: /resources/
