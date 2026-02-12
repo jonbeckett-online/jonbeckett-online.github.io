@@ -5,6 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
+![Jonathan Beckett](/assets/images/jonbeckett_newsprint.jpg)
+
 ## Hello, I'm Jonathan — nice to meet you!
 
 In the daytime I'm a software and web developer for a Microsoft partner, working on huge corporate systems that I can rarely tell anybody anything about. In my spare time I tinker with flight simulation software and record my escapades on YouTube.
