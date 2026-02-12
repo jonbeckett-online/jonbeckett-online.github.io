@@ -1,1 +1,0 @@
-# Flying Fries Quasar

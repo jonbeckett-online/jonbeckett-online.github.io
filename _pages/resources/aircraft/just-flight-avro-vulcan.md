@@ -1,1 +1,0 @@
-# Just Flight Avro Vulcan
