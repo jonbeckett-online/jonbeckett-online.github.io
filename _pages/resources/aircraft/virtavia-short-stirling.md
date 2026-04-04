@@ -1,1 +1,0 @@
-# Virtavia Short Stirling

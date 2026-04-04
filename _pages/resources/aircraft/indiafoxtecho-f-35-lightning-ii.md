@@ -1,1 +1,0 @@
-# IndiaFoxtEcho F-35 Lightning II

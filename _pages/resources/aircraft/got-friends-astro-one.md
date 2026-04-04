@@ -1,1 +1,0 @@
-# Got Friends Astro ONE

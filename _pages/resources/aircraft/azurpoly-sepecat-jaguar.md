@@ -1,1 +1,0 @@
-# AzurPoly SEPECAT Jaguar

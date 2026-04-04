@@ -1,1 +1,0 @@
-# Virtavia Yak-52

@@ -1,1 +1,0 @@
-# Airfoillabs BRISTELL B23

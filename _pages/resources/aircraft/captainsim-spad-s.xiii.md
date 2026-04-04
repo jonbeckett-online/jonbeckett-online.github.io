@@ -1,1 +1,0 @@
-# CaptainSim Spad S.XIII

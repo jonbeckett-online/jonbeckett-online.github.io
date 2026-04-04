@@ -1,1 +1,0 @@
-# Flyndive Simulations Paramotor

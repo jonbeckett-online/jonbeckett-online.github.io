@@ -1,1 +1,0 @@
-# Black Square Analog Bonanza
