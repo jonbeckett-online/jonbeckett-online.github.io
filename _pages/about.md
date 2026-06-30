@@ -20,4 +20,5 @@ Here's where you can find me online:
 - **[YouTube](https://youtube.com/@jonbeckett)** — follow along with my flight sim escapades and livestreams
 - **[Discord](https://discord.gg/rmA5XqV69s)** - find everything I contribute to the world of Flight Simulation, ask questions, and message me!
 - **[Substack](https://jonbeckett.substack.com/)** — subscribe for free regular emails about my escapades
+- **[Facebook](https://www.facebook.com/jonbeckettnotarealpilot)** - join my Facebook group, and get the same news there
 - **[Ko-Fi](https://ko-fi.com/jonbeckett/shop)** — use my guides and startup procedures to help get started in your favourite aircraft.
